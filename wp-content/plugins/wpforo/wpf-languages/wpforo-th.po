@@ -5,7 +5,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Project-Id-Version: Forum - wpForo\n"
 "POT-Creation-Date: 2020-05-29 00:40+0400\n"
-"PO-Revision-Date: 2020-07-09 11:36+0000\n"
+"PO-Revision-Date: 2020-07-10 17:51+0000\n"
 "Last-Translator: \n"
 "Language-Team: ไทย\n"
 "MIME-Version: 1.0\n"
@@ -56,7 +56,7 @@ msgstr ""
 
 #: wpf-admin/addons.php:56
 msgid "at least"
-msgstr ""
+msgstr "อย่างน้อย"
 
 #: wpf-admin/addons.php:58
 msgid "Details | Buy"
@@ -120,11 +120,11 @@ msgstr ""
 #: wpf-admin/admin.php:64 wpf-admin/options.php:24
 #: wpf-includes/wpf-hooks.php:2660 wpf-includes/wpf-phrases.php:211
 msgid "Addons"
-msgstr ""
+msgstr "ส่วนเสริม"
 
 #: wpf-admin/admin.php:126
 msgid "don't stop or close browser"
-msgstr ""
+msgstr "อย่าหยุดหรือปิดหน้าต่างนี้"
 
 #: wpf-admin/dashboard.php:7 wpf-includes/wpf-phrases.php:594
 msgid "wpForo Dashboard"
@@ -184,7 +184,7 @@ msgstr ""
 #: wpf-admin/tools-tabs/debug.php:246 wpf-admin/tools-tabs/debug.php:252
 #: wpf-includes/wpf-phrases.php:232
 msgid "Available"
-msgstr ""
+msgstr "พร้อมใช้งาน"
 
 #: wpf-admin/dashboard.php:110 wpf-admin/tools-tabs/debug.php:241
 msgid ""
@@ -194,7 +194,7 @@ msgstr ""
 
 #: wpf-admin/dashboard.php:131 wpf-includes/wpf-phrases.php:235
 msgid "Board Statistic"
-msgstr ""
+msgstr "สถิติเว็บบอร์ด"
 
 #: wpf-admin/dashboard.php:141 wpf-admin/options-tabs/posts.php:45
 #: wpf-admin/options-tabs/styles.php:23 wpf-includes/class-forums.php:749
@@ -213,7 +213,7 @@ msgstr ""
 
 #: wpf-admin/dashboard.php:163
 msgid "Avatars Size"
-msgstr ""
+msgstr "ขนาดรูปแทนตัว"
 
 #: wpf-admin/dashboard.php:167
 msgid "Default Attachments Size"
@@ -221,15 +221,15 @@ msgstr ""
 
 #: wpf-admin/dashboard.php:173
 msgid "Advanced Attachments"
-msgstr ""
+msgstr "ไฟล์แนบขั้นสูง"
 
 #: wpf-admin/dashboard.php:174
 msgid "file(s)"
-msgstr ""
+msgstr "ไฟล์"
 
 #: wpf-admin/dashboard.php:177
 msgid "Advanced Attachments Size"
-msgstr ""
+msgstr "ขนาดไฟล์แนบขั้นสูง"
 
 #: wpf-admin/dashboard.php:182
 msgid "Total Size"
@@ -294,7 +294,7 @@ msgstr ""
 
 #: wpf-admin/deactivation-dialog.php:24
 msgid "I'll reactivate it later"
-msgstr ""
+msgstr "ฉันจะเปิดใช้งานใหม่ทีหลัง"
 
 #: wpf-admin/deactivation-dialog.php:28
 msgid "The plugin is not working"
@@ -319,7 +319,7 @@ msgstr ""
 #: wpf-admin/deactivation-dialog.php:110 wpf-admin/deactivation-dialog.php:128
 #: wpf-admin/deactivation-dialog.php:146
 msgid "I agree to receive email"
-msgstr ""
+msgstr "ฉันยอมรับที่จะรับอีเมลล์"
 
 #: wpf-admin/deactivation-dialog.php:39 wpf-admin/deactivation-dialog.php:61
 #: wpf-admin/deactivation-dialog.php:79 wpf-admin/deactivation-dialog.php:97
@@ -380,7 +380,7 @@ msgstr ""
 
 #: wpf-admin/deactivation-dialog.php:158
 msgid "Dismiss and never show again"
-msgstr ""
+msgstr "ปิดหน้าต่างนี้และไม่แสดงอีก"
 
 #: wpf-admin/deactivation-dialog.php:159
 msgid "Submit &amp; Deactivate"
@@ -433,7 +433,7 @@ msgstr ""
 #: wpf-admin/phrase.php:15 wpf-admin/usergroup.php:13
 #: wpf-includes/wpf-phrases.php:206
 msgid "Add New"
-msgstr ""
+msgstr "เพิ่มใหม่"
 
 #: wpf-admin/forum.php:56 wpf-admin/forum.php:189 wpf-admin/forum.php:237
 #: wpf-admin/forum.php:277 wpf-admin/forum.php:300 wpf-admin/forum.php:309
@@ -490,11 +490,11 @@ msgstr ""
 
 #: wpf-admin/forum.php:173 wpf-includes/wpf-phrases.php:273
 msgid "Enter forum title here"
-msgstr ""
+msgstr "ใส่ชื่อกระทู้ที่นี่"
 
 #: wpf-admin/forum.php:178 wpf-includes/wpf-phrases.php:272
 msgid "Enter description here . . ."
-msgstr ""
+msgstr "ใส่รายระเอียดที่นี่"
 
 #: wpf-admin/forum.php:179 wpf-includes/wpf-phrases.php:515
 msgid ""
@@ -559,7 +559,7 @@ msgstr ""
 
 #: wpf-admin/forum.php:247
 msgid "Additional Options"
-msgstr ""
+msgstr "การตั้งค่าเพิ่มเติม"
 
 #: wpf-admin/forum.php:250
 msgid "Forum Color"
@@ -646,11 +646,11 @@ msgstr ""
 
 #: wpf-admin/includes/member-listtable.php:87
 msgid "Edit User"
-msgstr ""
+msgstr "แก้ไขผู้ใช้งาน"
 
 #: wpf-admin/includes/member-listtable.php:88
 msgid "Edit Profile"
-msgstr ""
+msgstr "แก้ไขโปรไฟล์"
 
 #: wpf-admin/includes/member-listtable.php:89
 msgid "Ban User"
@@ -711,7 +711,7 @@ msgstr ""
 
 #: wpf-admin/includes/member-listtable.php:160
 msgid "Last Login"
-msgstr ""
+msgstr "ล็อคอินล่าสุด"
 
 #: wpf-admin/includes/member-listtable.php:161 wpf-includes/wpf-phrases.php:829
 msgid "Forum Posts"
@@ -735,7 +735,7 @@ msgstr ""
 
 #: wpf-admin/includes/member-listtable.php:370 wpf-includes/wpf-phrases.php:536
 msgid "filter by group"
-msgstr ""
+msgstr "กรองโดยกลุ่ม"
 
 #: wpf-admin/includes/member-listtable.php:391
 msgid "filter by status"
@@ -789,7 +789,7 @@ msgstr ""
 
 #: wpf-admin/includes/moderation-listtable.php:139
 msgid "Created By"
-msgstr ""
+msgstr "สร้างโดย"
 
 #: wpf-admin/includes/moderation-listtable.php:140
 msgid "Created"
@@ -801,13 +801,13 @@ msgstr ""
 
 #: wpf-admin/includes/moderation-listtable.php:295
 msgid "All Users"
-msgstr ""
+msgstr "ผู้ใช้ทั้งหมด"
 
 #: wpf-admin/includes/phrase-listtable.php:79
 #: wpf-admin/includes/phrase-listtable.php:173 wpf-admin/usergroup.php:73
 #: wpf-includes/wpf-phrases.php:259
 msgid "Edit"
-msgstr ""
+msgstr "แก้ไข"
 
 #: wpf-admin/includes/phrase-listtable.php:125 wpf-admin/phrase.php:54
 msgid "Original"
@@ -832,15 +832,15 @@ msgstr ""
 #: wpf-admin/member.php:17 wpf-admin/moderation.php:17
 #: wpf-admin/options-tabs/members.php:41 wpf-admin/phrase.php:120
 msgid "Filter"
-msgstr ""
+msgstr "ตัวกรอง"
 
 #: wpf-admin/member.php:51
 msgid "All"
-msgstr ""
+msgstr "ทั้งหมด"
 
 #: wpf-admin/member.php:57 wpf-includes/wpf-phrases.php:783
 msgid "Active"
-msgstr ""
+msgstr "ออนไลน์"
 
 #: wpf-admin/member.php:63 wpf-admin/themes.php:45
 #: wpf-includes/wpf-phrases.php:324
@@ -901,12 +901,12 @@ msgstr ""
 
 #: wpf-admin/options-tabs/accesses.php:46 wpf-includes/wpf-phrases.php:810
 msgid "Admin"
-msgstr ""
+msgstr "แอดมิน"
 
 #: wpf-admin/options-tabs/accesses.php:51 wpf-includes/class-forums.php:757
 #: wpf-includes/wpf-phrases.php:567
 msgid "edit"
-msgstr ""
+msgstr "แก้ไข"
 
 #: wpf-admin/options-tabs/accesses.php:57 wpf-includes/wpf-phrases.php:225
 msgid ""
@@ -1805,7 +1805,7 @@ msgstr ""
 #: wpf-admin/options-tabs/features.php:87 wpf-includes/class-subscribes.php:25
 #: wpf-includes/wpf-phrases.php:287 wpforo.php:378
 msgid "Forum"
-msgstr ""
+msgstr "ฟอรั่ม"
 
 #: wpf-admin/options-tabs/features.php:92
 msgid "Thank you!"
@@ -2301,23 +2301,23 @@ msgstr ""
 
 #: wpf-admin/options-tabs/posts.php:234
 msgid "15 seconds"
-msgstr ""
+msgstr "15 วินาที"
 
 #: wpf-admin/options-tabs/posts.php:235
 msgid "30 seconds"
-msgstr ""
+msgstr "30 วินาที"
 
 #: wpf-admin/options-tabs/posts.php:236
 msgid "1 minute"
-msgstr ""
+msgstr "1 นาที"
 
 #: wpf-admin/options-tabs/posts.php:237
 msgid "2 minutes"
-msgstr ""
+msgstr "2 นาที"
 
 #: wpf-admin/options-tabs/posts.php:238
 msgid "5 minutes"
-msgstr ""
+msgstr "5 นาที"
 
 #: wpf-admin/options-tabs/posts.php:241
 msgid "Auto Drafting Interval"
@@ -2393,11 +2393,11 @@ msgstr ""
 
 #: wpf-admin/options-tabs/styles.php:125
 msgid "Download"
-msgstr ""
+msgstr "ดาวโหลด"
 
 #: wpf-admin/options.php:8 wpf-includes/wpf-phrases.php:303
 msgid "Forum Settings"
-msgstr ""
+msgstr "ตั้งค่าฟอรั่ม"
 
 #: wpf-admin/options.php:14 wpf-includes/wpf-phrases.php:315
 msgid "General"
@@ -2441,7 +2441,7 @@ msgstr ""
 
 #: wpf-admin/themes.php:43 wpf-includes/wpf-phrases.php:246
 msgid "Current active theme"
-msgstr ""
+msgstr "ธีมที่กำลังใช้งาน"
 
 #: wpf-admin/themes.php:49 wpf-includes/wpf-phrases.php:329
 msgid "LAYOUTS"
@@ -2449,7 +2449,7 @@ msgstr ""
 
 #: wpf-admin/themes.php:65 wpf-includes/wpf-phrases.php:203
 msgid "Activate"
-msgstr ""
+msgstr "เปิดใช้งาน"
 
 #: wpf-admin/themes.php:67 wpf-includes/wpf-phrases.php:310
 msgid "Fresh Installation"
@@ -3254,11 +3254,11 @@ msgstr ""
 
 #: wpf-admin/tools-tabs/misc.php:38
 msgid "Admin Note"
-msgstr ""
+msgstr "บันทึกแอดมิน"
 
 #: wpf-admin/tools-tabs/misc.php:46
 msgid "Admin message on forum front page"
-msgstr ""
+msgstr "ข้อความแอดมินบนหน้าฟอรั่ม"
 
 #: wpf-admin/tools-tabs/misc.php:47
 msgid ""
@@ -3697,11 +3697,11 @@ msgstr ""
 
 #: wpf-includes/class-forums.php:752
 msgid "Add a new Subforum"
-msgstr ""
+msgstr "เพิ่มฟอรั่มย่อย"
 
 #: wpf-includes/class-forums.php:752
 msgid "Add a new Forum in this Category"
-msgstr ""
+msgstr "เพิ่มฟอรั่มใหม่ในหมวดนี้"
 
 #: wpf-includes/class-members.php:185
 msgid "<strong>ERROR</strong>: Please enter a username."
@@ -3762,7 +3762,7 @@ msgstr ""
 
 #: wpf-includes/class-notices.php:123 wpf-includes/wpf-phrases.php:255
 msgid "Dismiss this notice."
-msgstr ""
+msgstr "ปิดแจ้งเตือนนี้"
 
 #: wpf-includes/class-notices.php:167
 msgid "New Addons for Your Forum!"
@@ -3802,6 +3802,12 @@ msgid ""
 " Please click on link below to complete this step.<br>\n"
 " [confirm_link]"
 msgstr ""
+"สวัสดี [member_name]!<br>\n"
+"ขอบคุณที่สมัครรับข่าวสาร <br>\n"
+"นี่เป็นระบบตอบกลับอัตโนมัติ<br>\n"
+" พวกเรายินดีที่จะแจ้งเตือนข่าวสารคุณหลังจากนี้ - [entry_title].<br>\n"
+" กรุณาคลิกลิงค์ด้านล่างเพื่อยืนยัน <br>\n"
+" [confirm_link]"
 
 #: wpf-includes/class-subscribes.php:32
 msgid "New Topic"
@@ -3820,6 +3826,16 @@ msgid ""
 " If you want to unsubscribe from this forum please use the link below.<br>\n"
 " [unsubscribe_link]"
 msgstr ""
+"สวัสดี [member_name]!<br>\n"
+" มีกระทู้ใหม่บนฟอรั่มที่คุณสมัครติดตาม - [forum].\n"
+" <br><br>\n"
+" <strong>[topic_title]</strong>\n"
+" <blockquote>\n"
+" [topic_desc]\n"
+" </blockquote>\n"
+" <br><hr>\n"
+" ถ้าคุณต้องการเลิกรับข่าวสารจากหัวข้อนี้ กรุณาคลิกลิงค์ข้างล่าง<br>\n"
+" [unsubscribe_link]"
 
 #: wpf-includes/class-subscribes.php:34 wpf-includes/wpf-phrases.php:1069
 msgid "New Reply"
@@ -3838,6 +3854,16 @@ msgid ""
 " If you want to unsubscribe from this topic please use the link below.<br>\n"
 " [unsubscribe_link]"
 msgstr ""
+"สวัสดี [member_name]!<br>\n"
+" มีการตอบกลับบนกระทู้ที่คุณสมัครติดตาม- [topic].\n"
+" <br><br>\n"
+" <strong>[reply_title]</strong>\n"
+" <blockquote >\n"
+" [reply_desc]\n"
+" </blockquote>\n"
+" <br><hr>\n"
+"ถ้าคุณต้องการเลิกรับข่าวสารจากหัวข้อนี้ กรุณาคลิกลิงค์ข้างล่าง<br>\n"
+" [unsubscribe_link]"
 
 #: wpf-includes/class-subscribes.php:36
 msgid "Forum Post Report"
@@ -3900,6 +3926,17 @@ msgid ""
 "\n"
 " Thanks!"
 msgstr ""
+"สวัสดี! \n"
+"\n"
+"คุณได้ขอร้องรีเซ็ทรหัสผ่านด้วย [user_login]. \n"
+"\n"
+" ถ้าคุณไม่ได้ร้องขอรีเซ็ทรหัสผ่าน ไม่ต้องสนใจอีเมลล์นี้ \n"
+"\n"
+" คลิกลิงค์ด้านล่างเพื่อรีเซ็ทรหัสผ่าน\n"
+"\n"
+" [reset_password_url] \n"
+"\n"
+"ขอบคุณ!"
 
 #: wpf-includes/class-subscribes.php:47
 msgid "You have been mentioned in forum post"
@@ -4029,7 +4066,7 @@ msgstr ""
 
 #: wpf-includes/functions-installation.php:303
 msgid "Main Category"
-msgstr ""
+msgstr "หมวดหมู่หลัก"
 
 #: wpf-includes/functions-installation.php:303
 msgid "This is a simple category / section"
@@ -4037,7 +4074,7 @@ msgstr ""
 
 #: wpf-includes/functions-installation.php:304
 msgid "Main Forum"
-msgstr ""
+msgstr "ฟอรั่มหลัก"
 
 #: wpf-includes/functions-installation.php:304
 msgid "This is a simple parent forum"
@@ -4167,7 +4204,7 @@ msgstr ""
 #: wpf-includes/functions-template.php:523
 #: wpf-includes/functions-template.php:698
 msgid "Created Date"
-msgstr ""
+msgstr "วันที่สร้าง"
 
 #: wpf-includes/functions-template.php:524
 #: wpf-includes/functions-template.php:699
@@ -4195,7 +4232,7 @@ msgstr ""
 #: wpf-includes/functions-template.php:616
 #: wpf-includes/functions-template.php:864
 msgid "Filter by forums"
-msgstr ""
+msgstr "กรองโดยฟอรั่ม"
 
 #: wpf-includes/functions-template.php:623
 #: wpf-includes/functions-template.php:871
@@ -4266,7 +4303,7 @@ msgstr ""
 
 #: wpf-includes/integration/buddypress.php:100 wpf-includes/wpf-phrases.php:976
 msgid "Liked Posts"
-msgstr ""
+msgstr "กระทู้ที่ถูกใจ"
 
 #: wpf-includes/integration/buddypress.php:112 wpf-includes/wpf-phrases.php:504
 msgid "Subscriptions"
@@ -4421,7 +4458,7 @@ msgstr ""
 
 #: wpf-includes/wpf-hooks.php:1534
 msgid "Forum - User Timezone"
-msgstr ""
+msgstr "ฟอรั่ม - ช่วงเวลาประเทศ"
 
 #: wpf-includes/wpf-hooks.php:1545
 msgid "User Reputation"
@@ -4602,7 +4639,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:33
 msgid "Attachment"
-msgstr ""
+msgstr "ไฟล์ที่แนบมา"
 
 #: wpf-includes/wpf-phrases.php:34
 msgid "all topics has been loaded in this list"
@@ -4630,7 +4667,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:40
 msgid "done"
-msgstr ""
+msgstr "เสร็จ"
 
 #: wpf-includes/wpf-phrases.php:41
 msgid "You don't have permission to like posts from this forum"
@@ -4646,11 +4683,11 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:44
 msgid "About"
-msgstr ""
+msgstr "เกี่ยวกับ"
 
 #: wpf-includes/wpf-phrases.php:45
 msgid "404 - Page not found"
-msgstr ""
+msgstr "404 - ไม่พบหน้าเว็บ"
 
 #: wpf-includes/wpf-phrases.php:46
 msgid "DO NOT DELETE WPFORO PAGE!!!"
@@ -4740,10 +4777,11 @@ msgstr ""
 #, php-format
 msgid "I have read and agree to %s privacy policy."
 msgstr ""
+"ฉันได้อ่านและยอมรับนโยบายความเป็นส่วนตัวของ %s\n"
 
 #: wpf-includes/wpf-phrases.php:68
 msgid "All "
-msgstr ""
+msgstr "ทั้งหมด"
 
 #: wpf-includes/wpf-phrases.php:69
 msgid "Reply by"
@@ -4760,12 +4798,12 @@ msgstr ""
 #: wpf-includes/wpf-phrases.php:72
 #, php-format
 msgid "Last reply by %s"
-msgstr ""
+msgstr "ตอบกลับล่าสุดโดย %s"
 
 #: wpf-includes/wpf-phrases.php:73
 #, php-format
 msgid "Created by %s"
-msgstr ""
+msgstr "สร้างโดย %s"
 
 #: wpf-includes/wpf-phrases.php:74
 #, php-format
@@ -4879,7 +4917,7 @@ msgstr ""
 #: wpf-includes/wpf-phrases.php:101
 #, php-format
 msgid "Avatar image is too big maximum allowed size is %s"
-msgstr ""
+msgstr "รูปแทนตัวมีขนาดใหญ่เกินกว่าขนาดที่กำหนด %s"
 
 #: wpf-includes/wpf-phrases.php:102
 msgid "This nickname is already registered. Please insert another."
@@ -4910,11 +4948,11 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:109
 msgid "I allow to create an account and send confirmation email."
-msgstr ""
+msgstr "ฉันอนุญาตให้สร้างบัญชีและส่งอีเมลล์ยืนยัน"
 
 #: wpf-includes/wpf-phrases.php:110
 msgid "Leave a comment"
-msgstr ""
+msgstr "ส่งความเห็น"
 
 #: wpf-includes/wpf-phrases.php:111
 msgid "Reply with quote"
@@ -4995,7 +5033,7 @@ msgstr ""
 msgid ""
 "I allow to create an account based on my Facebook public profile information "
 "and send confirmation email."
-msgstr ""
+msgstr "ฉันยอมรับให้สร้างบัญชีที่โดยใช้ Facebook ของฉันและส่งอีเมลล์ยืนยันมา"
 
 #: wpf-includes/wpf-phrases.php:136 wpf-includes/wpf-phrases.php:934
 #, php-format
@@ -5029,7 +5067,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:142
 msgid "I agree to receive an email confirmation with a link to set a password."
-msgstr ""
+msgstr "ฉันยอมรับที่จะรับลิงค์ยืนยันตั้งรหัสผ่านผ่านอีเมลล์"
 
 #: wpf-includes/wpf-phrases.php:143
 msgid "and"
@@ -5050,10 +5088,12 @@ msgid ""
 "check our privacy policy, where you'll get more info on where, how and why "
 "we store your data."
 msgstr ""
+"ฉันได้อ่านและยอมรับนโยบายความเป็นส่วนตัวของ %s "
+"กรุณาอ่านนโยบายความเป็นส่วนตัวของเราเพื่อเข้าใจวิธีเก็บที่เราเก็บข้อมูลการใช้งาน\n"
 
 #: wpf-includes/wpf-phrases.php:147
 msgid "I have read and agree to the"
-msgstr ""
+msgstr "ฉันได้อ่านและยอมรับ"
 
 #: wpf-includes/wpf-phrases.php:148
 msgid "the website"
@@ -5065,7 +5105,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:150
 msgid "I agree to these rules"
-msgstr ""
+msgstr "ฉันยอมรับกฎเหล่านี้"
 
 #: wpf-includes/wpf-phrases.php:151
 msgid "Click to open forum rules below"
@@ -5074,7 +5114,7 @@ msgstr ""
 #: wpf-includes/wpf-phrases.php:152
 #, php-format
 msgid "I have read and agree to abide by the %s."
-msgstr ""
+msgstr "ฉันได้อ่านและตกลงที่จะปฏิบัติตาม %s"
 
 #: wpf-includes/wpf-phrases.php:153
 msgid "forum rules"
@@ -5095,7 +5135,7 @@ msgstr ""
 #: wpf-includes/wpf-phrases.php:157
 #, php-format
 msgid "I have read and agree to the %s."
-msgstr ""
+msgstr "ฉันได้อ่านและยอมรับ %s"
 
 #: wpf-includes/wpf-phrases.php:158
 msgid "forum privacy policy"
@@ -5134,6 +5174,7 @@ msgid ""
 "Enter your email address or username and we'll send you a link you can use "
 "to pick a new password."
 msgstr ""
+"กรอกอีเมลล์หรือชื่อผู้ใช้งานที่คุณสมัคร เราจะส่งลิงค์ตั้งรหัสผ่านใหม่ไป"
 
 #: wpf-includes/wpf-phrases.php:167 wpf-includes/wpf-phrases.php:898
 msgid "ERROR: Can't connect to Google reCAPTCHA API"
@@ -5149,7 +5190,7 @@ msgstr "อีเมลล์ของคุณ"
 
 #: wpf-includes/wpf-phrases.php:170
 msgid "Author Email"
-msgstr ""
+msgstr "อีเมลล์ผู้เขียน"
 
 #: wpf-includes/wpf-phrases.php:171
 msgid "Your name"
@@ -5157,7 +5198,7 @@ msgstr "ชื่อของคุณ"
 
 #: wpf-includes/wpf-phrases.php:172
 msgid "Author Name"
-msgstr ""
+msgstr "ชื่อผู้เขียน"
 
 #: wpf-includes/wpf-phrases.php:173
 msgid "View entire topic"
@@ -5168,6 +5209,8 @@ msgid ""
 "After registration you will receive an email confirmation with a link to set "
 "a new password"
 msgstr ""
+"หลังจากการสมัครสมาชิก "
+"คุณจะได้รับอีเมลล์ยืนยันพร้อมตั้งรหัสผ่านส่งไปยังอีเมลล์ที่กรอกไว้"
 
 #: wpf-includes/wpf-phrases.php:175
 msgid "Recently Added"
@@ -5205,7 +5248,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:184
 msgid "Length must be between 3 characters and 15 characters."
-msgstr ""
+msgstr "ความยาวควรมี 3 ถึง 15 อักขระ"
 
 #: wpf-includes/wpf-phrases.php:185 wpf-includes/wpf-phrases.php:620
 msgid "Can't write a post: This topic is closed"
@@ -5261,23 +5304,23 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:199
 msgid "About Me"
-msgstr ""
+msgstr "เกี่ยวกับฉัน"
 
 #: wpf-includes/wpf-phrases.php:202
 msgid "Account"
-msgstr ""
+msgstr "บัญชี"
 
 #: wpf-includes/wpf-phrases.php:205
 msgid "Activity"
-msgstr ""
+msgstr "กิจกรรม"
 
 #: wpf-includes/wpf-phrases.php:209
 msgid "Add a comment"
-msgstr ""
+msgstr "เพิ่มคอมเมนต์"
 
 #: wpf-includes/wpf-phrases.php:210
 msgid "Add topic"
-msgstr ""
+msgstr "เพิ่มหัวข้อ"
 
 #: wpf-includes/wpf-phrases.php:218
 msgid "Answer"
@@ -5301,19 +5344,19 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:229
 msgid "Attach file:"
-msgstr ""
+msgstr "แนบไฟล์"
 
 #: wpf-includes/wpf-phrases.php:230
 msgid "Attachments"
-msgstr ""
+msgstr "ไฟล์ที่แนบมา"
 
 #: wpf-includes/wpf-phrases.php:231
 msgid "Attachments Size"
-msgstr ""
+msgstr "ขนาดไฟล์"
 
 #: wpf-includes/wpf-phrases.php:233
 msgid "Avatar"
-msgstr ""
+msgstr "รูปแทนตัว"
 
 #: wpf-includes/wpf-phrases.php:236
 msgid "Bulk Actions"
@@ -5329,7 +5372,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:244
 msgid "Comments"
-msgstr ""
+msgstr "ความเห็น"
 
 #: wpf-includes/wpf-phrases.php:245
 msgid "Confirm my subscription"
@@ -5349,11 +5392,11 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:260
 msgid "Edited: "
-msgstr ""
+msgstr "แก้ไข:"
 
 #: wpf-includes/wpf-phrases.php:274
 msgid "Enter title here"
-msgstr ""
+msgstr "ใส่ชื่อเรื่องที่นี่"
 
 #: wpf-includes/wpf-phrases.php:276
 msgid "Extended Layout - Intro posts"
@@ -5385,7 +5428,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:284
 msgid "Find Posts by User"
-msgstr ""
+msgstr "หากระทู้จากผู้ใช้"
 
 #: wpf-includes/wpf-phrases.php:285
 msgid "Find Topics Started by User"
@@ -5397,15 +5440,15 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:288
 msgid "Forum - Login"
-msgstr ""
+msgstr "ฟอรั่ม - เข้าสู่ระบบ"
 
 #: wpf-includes/wpf-phrases.php:289
 msgid "Forum - Page Not Found"
-msgstr ""
+msgstr "ฟอรั่ม - ไม่พบหน้า"
 
 #: wpf-includes/wpf-phrases.php:290
 msgid "Forum - Registration"
-msgstr ""
+msgstr "ฟอรั่ม - สมัครสมาชิก"
 
 #: wpf-includes/wpf-phrases.php:292
 msgid "Forum Admin Email Addresses"
@@ -5425,7 +5468,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:300
 msgid "Forum Profile"
-msgstr ""
+msgstr "ฟอรั่มโปรไฟล์"
 
 #: wpf-includes/wpf-phrases.php:301
 msgid "Forum RSS Feed"
@@ -5433,7 +5476,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:305
 msgid "Forum Statistics"
-msgstr ""
+msgstr "สถิติฟอรั่ม"
 
 #: wpf-includes/wpf-phrases.php:308
 msgid "Forum is empty"
@@ -5465,60 +5508,60 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:331
 msgid "Last 24 hours"
-msgstr ""
+msgstr "24 ชั่วโมงล่าสุด"
 
 #: wpf-includes/wpf-phrases.php:332
 msgid "Last 3 Months"
-msgstr ""
+msgstr "3 เดือนล่าสุด"
 
 #: wpf-includes/wpf-phrases.php:333
 msgid "Last 6 Months"
-msgstr ""
+msgstr "6 เดือนล่าสุด"
 
 #: wpf-includes/wpf-phrases.php:334
 msgid "Last Active"
-msgstr ""
+msgstr "ออนไลน์ล่าสุด"
 
 #: wpf-includes/wpf-phrases.php:335
 msgid "Last Month"
-msgstr ""
+msgstr "เดือนล่าสุด"
 
 #: wpf-includes/wpf-phrases.php:336
 msgid "Last Post"
-msgstr ""
+msgstr "กระทู้ล่าสุด"
 
 #: wpf-includes/wpf-phrases.php:337
 msgid "Last Post Info"
-msgstr ""
+msgstr "รายละเอียดกระทู้ล่าสุด"
 
 #: wpf-includes/wpf-phrases.php:338
 msgid "Last Week"
-msgstr ""
+msgstr "สับดาห์ล่าสุด"
 
 #: wpf-includes/wpf-phrases.php:339
 msgid "Last Year ago"
-msgstr ""
+msgstr "ปีล่าสุด"
 
 #: wpf-includes/wpf-phrases.php:340
 #, php-format
 msgid "Last post by %s"
-msgstr ""
+msgstr "กระทู้ล่าสุดโดย %s"
 
 #: wpf-includes/wpf-phrases.php:341
 msgid "Latest Post"
-msgstr ""
+msgstr "กระทู้ล่าสุด"
 
 #: wpf-includes/wpf-phrases.php:342
 msgid "Leave a reply"
-msgstr ""
+msgstr "ส่งตอบกลับ"
 
 #: wpf-includes/wpf-phrases.php:343
 msgid "Length must be between 3 characters and 30 characters."
-msgstr ""
+msgstr "ความยาวควรมี 3 ถึง 30 อักขระ"
 
 #: wpf-includes/wpf-phrases.php:345
 msgid "Liked"
-msgstr ""
+msgstr "ถูกใจแล้ว"
 
 #: wpf-includes/wpf-phrases.php:346
 msgid "Location"
@@ -6008,11 +6051,11 @@ msgstr "คำตอบของคุณ"
 
 #: wpf-includes/wpf-phrases.php:558
 msgid "account"
-msgstr ""
+msgstr "บัญชี"
 
 #: wpf-includes/wpf-phrases.php:559
 msgid "activity"
-msgstr ""
+msgstr "กิจกรรม"
 
 #: wpf-includes/wpf-phrases.php:560
 msgid "add"
@@ -6029,12 +6072,12 @@ msgstr "%s ที่แล้ว"
 
 #: wpf-includes/wpf-phrases.php:563
 msgid "by"
-msgstr ""
+msgstr "โดย"
 
 #: wpf-includes/wpf-phrases.php:564
 #, php-format
 msgid "by %s"
-msgstr ""
+msgstr "โดย %s"
 
 #: wpf-includes/wpf-phrases.php:565
 msgid "confirm password"
@@ -6042,11 +6085,11 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:568
 msgid "edit profile"
-msgstr ""
+msgstr "แก้ไขโปรไฟล์"
 
 #: wpf-includes/wpf-phrases.php:569
 msgid "edit user"
-msgstr ""
+msgstr "แก้ไขผู้ใช้งาน"
 
 #: wpf-includes/wpf-phrases.php:570
 msgid "forums"
@@ -6248,7 +6291,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:632
 msgid "File type is not allowed"
-msgstr ""
+msgstr "ไฟล์ประเภทนี้ไม่ได้รับอนุญาต"
 
 #: wpf-includes/wpf-phrases.php:633
 msgid "Forum Base URL successfully updated"
@@ -6746,7 +6789,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:851
 msgid "Awaiting moderation"
-msgstr ""
+msgstr "รอการตรวจสอบ"
 
 #: wpf-includes/wpf-phrases.php:852
 msgid "Topic first post not found."
@@ -6762,7 +6805,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:855
 msgid "Done!"
-msgstr ""
+msgstr "เสร็จ!"
 
 #: wpf-includes/wpf-phrases.php:856
 msgid "You are not allowed to attach this file type"
@@ -6814,7 +6857,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:876
 msgid "Add Reply"
-msgstr ""
+msgstr "เพิ่มการตอบกลับ"
 
 #: wpf-includes/wpf-phrases.php:877
 msgid "Forums RSS Feed"
@@ -6826,7 +6869,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:879
 msgid "Find a member"
-msgstr ""
+msgstr "หาผู้ใช้"
 
 #: wpf-includes/wpf-phrases.php:880
 msgid "Display Name or Nicename"
@@ -6889,7 +6932,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:904
 msgid "Forgot Your Password?"
-msgstr ""
+msgstr "ลืมรหัสผ่านหรือ?"
 
 #: wpf-includes/wpf-phrases.php:907
 #, php-format
@@ -6970,7 +7013,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:924
 msgid "Create New Topic"
-msgstr ""
+msgstr "สร้างหัวข้อใหม่"
 
 #: wpf-includes/wpf-phrases.php:925
 msgid ""
@@ -7024,44 +7067,44 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:939
 msgid "field is required"
-msgstr ""
+msgstr "กรุณากรอกข้อมูล"
 
 #: wpf-includes/wpf-phrases.php:940
 #, php-format
 msgid "field value must be at least %d"
-msgstr ""
+msgstr "ใส่ค่าขั้นต่ำ %d"
 
 #: wpf-includes/wpf-phrases.php:941
 #, php-format
 msgid "field value cannot be greater than %d"
-msgstr ""
+msgstr "ค่าไม่สามารถสูงกว่า %d"
 
 #: wpf-includes/wpf-phrases.php:942
 #, php-format
 msgid "field length must be at least %d characters"
-msgstr ""
+msgstr "ความยาวตัวอักษรควรมีอย่างน้อย %d ตัว"
 
 #: wpf-includes/wpf-phrases.php:943
 #, php-format
 msgid "field length cannot be greater than %d characters"
-msgstr ""
+msgstr "ความยาวตัวอักษรไม่สามารถมากกว่า %d ตัว"
 
 #: wpf-includes/wpf-phrases.php:944
 msgid "field value is not a valid URL"
-msgstr ""
+msgstr "URL ไม่ถูกต้อง"
 
 #: wpf-includes/wpf-phrases.php:945
 msgid "file type is not detected"
-msgstr ""
+msgstr "ไม่พบประเภทไฟล์"
 
 #: wpf-includes/wpf-phrases.php:946
 #, php-format
 msgid "file type %s is not allowed"
-msgstr ""
+msgstr "ไฟล์ประเภท %s ไม่ได้รับอนุญาต"
 
 #: wpf-includes/wpf-phrases.php:947
 msgid "file is too large"
-msgstr ""
+msgstr "ไฟล์ใหญ่เกินไป"
 
 #: wpf-includes/wpf-phrases.php:948
 msgid "Success! Please check your mail for confirmation."
@@ -7078,7 +7121,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:951
 msgid "Avatar image is too big maximum allowed size is 2MB"
-msgstr ""
+msgstr "รูปแทนตัวมีขนาดใหญ่เกินกว่าขนาดที่กำหนด 2MB"
 
 #: wpf-includes/wpf-phrases.php:952
 msgid "One of the selected Usergroups cannot be set as Secondary"
@@ -7128,7 +7171,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:963
 msgid "Form name not found"
-msgstr ""
+msgstr "ไม่พบชื่อฟอร์ม"
 
 #: wpf-includes/wpf-phrases.php:964
 msgid "Form template not found"
@@ -7156,7 +7199,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:970
 msgid "Edit Topic"
-msgstr ""
+msgstr "แก้ไขหัวข้อ"
 
 #: wpf-includes/wpf-phrases.php:971
 #, php-format
@@ -7165,7 +7208,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:972
 msgid "Edit Post"
-msgstr ""
+msgstr "แก้ไขกระทู้"
 
 #: wpf-includes/wpf-phrases.php:973
 #, php-format
@@ -7186,7 +7229,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:980
 msgid "Liked Forum Posts"
-msgstr ""
+msgstr "ฟอรั่มกระทู้ที่ถูกใจ"
 
 #: wpf-includes/wpf-phrases.php:981
 msgid "Forum Subscriptions"
@@ -7215,7 +7258,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:990
 msgid "Find Topics by Tags"
-msgstr ""
+msgstr "หากระทู้จากแท็ก"
 
 #: wpf-includes/wpf-phrases.php:991
 msgid "Related Topics"
@@ -7231,7 +7274,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:994
 msgid "All forum topics"
-msgstr ""
+msgstr "หัวข้อทั้งหมด"
 
 #: wpf-includes/wpf-phrases.php:995
 msgid "No tags found"
@@ -7287,7 +7330,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:1011
 msgid "Ask a question"
-msgstr ""
+msgstr "ถามคำถาม"
 
 #: wpf-includes/wpf-phrases.php:1012
 msgid "Your question"
@@ -7330,7 +7373,7 @@ msgstr "%d เวลา"
 #: wpf-includes/wpf-phrases.php:1023
 #, php-format
 msgid "Currently viewing this topic %s %s %s."
-msgstr ""
+msgstr "กำลังอ่านหัวข้อนี้ %s %s %s."
 
 #: wpf-includes/wpf-phrases.php:1026
 msgid "Forum Icons"
@@ -7560,11 +7603,11 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:1090
 msgid "Dismiss"
-msgstr ""
+msgstr "ปิดหน้าต่าง"
 
 #: wpf-includes/wpf-phrases.php:1091
 msgid "Add New Category or Forum"
-msgstr ""
+msgstr "เพิ่มหมวดหรือฟอรั่ม"
 
 #: wpf-includes/wpf-phrases.php:1092
 msgid "Change Color Style"
@@ -7588,7 +7631,7 @@ msgstr ""
 
 #: wpf-includes/wpf-phrases.php:1097
 msgid "Admin Control Panel"
-msgstr ""
+msgstr "ส่วนจัดการของแอดมิน"
 
 #: wpf-includes/wpf-phrases.php:1098
 msgid "the layout you want"
